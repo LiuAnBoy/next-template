@@ -66,6 +66,7 @@ build/Release
 # === Environment Files ===
 # Ignore all .env files in any subdirectory
 **/.env*
+!**/.env.example
 # But DO NOT ignore .env.example or similar template files
 # Add exceptions if needed, e.g.:
 # !**/.env.example

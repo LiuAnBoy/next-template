@@ -18,6 +18,12 @@ curl -L https://codeload.github.com/liuanboy/next-template/tar.gz/master | tar -
 curl -L https://codeload.github.com/liuanboy/next-template/tar.gz/master | tar -xz --strip=1 next-template-master/next-mui-ts
 ```
 
+## NODEJS + EXPRESS + TypeScript Template
+
+```
+curl -L https://codeload.github.com/liuanboy/next-template/tar.gz/master | tar -xz --strip=1 next-template-master/next-mui-ts
+```
+
 ---
 
 ## Starting the Development Server
